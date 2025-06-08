@@ -1,0 +1,1 @@
+export const BaseURL = 'https://app.wewantwaste.co.uk/api/'
